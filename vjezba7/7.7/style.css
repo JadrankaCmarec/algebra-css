@@ -1,0 +1,112 @@
+.wrapper{
+    border: 1px solid black;
+    padding: 1em;
+}
+
+.wrapper :nth-child(1){
+    order: 1;
+    background: rgb(221, 220, 220);
+    border: 1px solid black;
+    padding: 1em;
+    text-align: center;
+    width: 20%;
+    margin: 1em;
+    height: 150px;
+}
+.wrapper :nth-child(2){
+    order: 2;
+    background: rgb(221, 220, 220);
+    border: 1px solid black;
+    padding: 1em;
+    text-align: center;
+    width: 20%;
+    margin: 1em;
+    height: 150px;
+}
+.wrapper :nth-child(3){
+    order: 3;
+    background: rgb(221, 220, 220);
+    border: 1px solid black;
+    padding: 1em;
+    text-align: center;
+    width: 20%;
+    margin: 1em;
+    height: 150px;
+}
+.wrapper :nth-child(4){
+    order: 1;
+    background: rgb(221, 220, 220);
+    border: 1px solid black;
+    padding: 1em;
+    text-align: center;
+    width: 20%;
+    margin: 1em;
+    height: 150px;
+}
+.wrapper :nth-child(5){
+    order: 2;
+    background: rgb(221, 220, 220);
+    border: 1px solid black;
+    padding: 1em;
+    text-align: center;
+    width: 20%;
+    margin: 1em;
+    height: 150px;
+}
+.wrapper :nth-child(6){
+    order: 3;
+    background: rgb(221, 220, 220);
+    border: 1px solid black;
+    padding: 1em;
+    text-align: center;
+    width: 20%;
+    margin: 1em;
+    height: 150px;
+}
+.wrapper :nth-child(7){
+    order: 1;
+    background: rgb(221, 220, 220);
+    border: 1px solid black;
+    padding: 1em;
+    text-align: center;
+    width: 20%;
+    margin: 1em;
+    height: 150px;
+}
+.wrapper :nth-child(8){
+    order: 2;
+    background: rgb(221, 220, 220);
+    border: 1px solid black;
+    padding: 1em;
+    text-align: center;
+    width: 20%;
+    margin: 1em;
+    height: 150px;
+}
+.wrapper :nth-child(9){
+    order: 3;
+    background: rgb(221, 220, 220);
+    border: 1px solid black;
+    padding: 1em;
+    text-align: center;
+    width: 20%;
+    margin: 1em;
+    height: 150px;
+}
+.wrapper :nth-child(10){
+    order: 1;
+    background: rgb(221, 220, 220);
+    border: 1px solid black;
+    padding: 1em;
+    text-align: center;
+    width: 20%;
+    margin: 1em;
+    height: 150px;
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: righ;
+    flex-wrap: wrap;
+}
